@@ -17,7 +17,7 @@
   - Mistaken expectation about how ML works
   - Poor execution of programm design and implementation
 # 10.01.2023 Introduction to Digital Transformation with Google Cloud: AI & ML with GC
-
+- 
 # 10.01.2023 Introduction to Digital Transformation with Google Cloud: usecases for ML
 
 
