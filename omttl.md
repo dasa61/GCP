@@ -70,7 +70,8 @@
     -  It provides isolated environements to run your software for services and optimize resources from one piece of hardware
   - Serverless computing
     - It offers a far more lightweight unit for developers and IT Operations team to work and provide a ranfe of benefits.  They start Faster and use a fraction of the memory compared to booting an entire operating system. 
-    - It gives developers the ability to create prediccatable environments that are isolated from other obligations. 
+    - It gives developers the ability to create prediccatable environments that are isolated from other obligations.
+    - Containers improve agility, strength and security, optimize resources and simplify managing applications in the cloud. 
 -  Available compute options
 -  Private, hybrid and multi-cloud architectures
 -  Goggle Cloud global Infrastructure
