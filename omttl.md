@@ -57,11 +57,26 @@
     - How can they survive and thrive in this new clud era?
     -  With cloud organizations can develop and build new applications to drive better engagement with customers and employees. Faster securely and at scale and unlimately leveraging cloud technology to truly transform a business requires new collaborative models, changing cluscure and processes and enabling team productivity and innovation.
   - VMs share the same pool of computers proccessing storage and networking resources. VMs optimize the use of available resources and enable businesses to have multiple applications running at the same time on a server in a way that is efficient and manageable. 
+
+- *** Key advantages of using public cloud services to modernize or even set up your IT infrastructure. 
+  - First, Cloud reduces the need for IT team to act a gateway to technocal resources such as network security, compute power and data. 
+  - Next, there is a board network access. 
+  - Third, Resources are distributed across a global network of data centers (Resource Pooling)
+  - Next, Companies can scale up or down instantly due to the availability of on demand cloud resources (Repid Elasticity). Means business can serve their customers without intruption in a coast effective way. 
+  - Finally, cloud is a measured service which means companies have a lower up front or capital expenditure because they don't have the need to purchase their own data center equipment or maintain their IT Infra. 
+ - *** What options are available to modernize your Business IT Infra:
+  - VMs: is a form of resource optimization that allows multiple systems to run on the same hardware. Means they share the same pool of computer processing storage and networking resources. VMs enable business to have multiple applications running at the same time on a server in a way that is efficient and managable. The software layer that enables this is called a Hyper Visor. A Hyper Visor sits on top of physical hardware, and multiple VMs are buolt on top of it. 
+  - Contrainerization
+    -  It provides isolated environements to run your software for services and optimize resources from one piece of hardware
+  - Serverless computing
+    - It offers a far more lightweight unit for developers and IT Operations team to work and provide a ranfe of benefits.  They start Faster and use a fraction of the memory compared to booting an entire operating system. 
+    - It gives developers the ability to create prediccatable environments that are isolated from other obligations. 
 -  Available compute options
 -  Private, hybrid and multi-cloud architectures
 -  Goggle Cloud global Infrastructure
 -  Google Cloud compute solutions
--  
+# 11.01.2023 Infra&App Modernzation with GC: Key terms
+- in the context of cloud- compute or computing refers to a machine's ability to process information to store, retrive, compare and analyze it and automate tasks often done by computer programms otherwise known as software or applications. 
 # 11.01.2023 Infra&App Modernzation with GC: Module 2
 # 11.01.2023 Infra&App Modernzation with GC: Module 3
 # 10.01.2023 Understanding Google Cloud Security and Operations
