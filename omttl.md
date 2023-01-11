@@ -36,9 +36,32 @@
   - Like Images, Videos, Audio.  
 - Personalizing applications
   - like YouTube  
-
-# 10.01.2023 Innovatiing with Data and Google Cloud
+- *** Wherever there is data, there is inherent human bias. Make sure to build in ethical and responsible best practices. 
+# 10.01.2023 Innovation with Data and Google Cloud
+- ABC
 
 # 10.01.2023 Infrastructure and Application Modernzation with Google Cloud
-
+- Module 1
+  - Virtual machines
+  - Containerization
+  - Serveless Computing 
+- Module 2
+  - Application Modernization
+  - App Engine
+- Module 3
+  - All present application programming interfaces or APIs and explain how they unlock value from legacy systems, enabale businesses to create new value and monetize new services. 
+# 11.01.2023 Infra&App Modernzation with GC: Module 1
+- Modernizing IT Infra with GC
+  -  New businesses born in the cloud are challanging old business models. Scale is no longer a competetive advantage, it's the Norm. 
+    - How organizations can respond to this trend?
+    - How can they survive and thrive in this new clud era?
+    -  With cloud organizations can develop and build new applications to drive better engagement with customers and employees. Faster securely and at scale and unlimately leveraging cloud technology to truly transform a business requires new collaborative models, changing cluscure and processes and enabling team productivity and innovation.
+  - VMs share the same pool of computers proccessing storage and networking resources. VMs optimize the use of available resources and enable businesses to have multiple applications running at the same time on a server in a way that is efficient and manageable. 
+-  Available compute options
+-  Private, hybrid and multi-cloud architectures
+-  Goggle Cloud global Infrastructure
+-  Google Cloud compute solutions
+-  
+# 11.01.2023 Infra&App Modernzation with GC: Module 2
+# 11.01.2023 Infra&App Modernzation with GC: Module 3
 # 10.01.2023 Understanding Google Cloud Security and Operations
