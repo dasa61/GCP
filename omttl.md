@@ -28,7 +28,14 @@
   -  AutoML
   -  Custom Model Tooling
 # 10.01.2023 Introduction to Digital Transformation with Google Cloud: usecases for ML
-- Usecase 1: Repl
+- Usecase 1: Replacing rule-based systems
+  -  Search is one example of how ML leverage vast amount of data to provide highly accurate predictions in a rule based system.
+- Automating processes
+  -  Where ML makes predictions and repeated decisions at scale.
+- Understanding unstructure data
+  - Like Images, Videos, Audio.  
+- Personalizing applications
+  - like YouTube  
 
 # 10.01.2023 Innovatiing with Data and Google Cloud
 
