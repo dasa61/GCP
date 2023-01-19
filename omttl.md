@@ -74,8 +74,15 @@
     - Containers improve agility, strength and security, optimize resources and simplify managing applications in the cloud. 
 -  Available compute options
 -  Private, hybrid and multi-cloud architectures
--  Goggle Cloud global Infrastructure
+-  Google Cloud global Infrastructure
 -  Google Cloud compute solutions
+# 19.01.2023 Infra&App Modernzation with GC: Understanding compute options in the Cloud
+- Key advantages of public Cloud Services:
+  -  Cloud reduces the need for IT team to act as gateway to technical resources such as network, security, storage, compute, power and data = On demand self service
+  -  Board Network Access
+  -  Resouce polling
+  -  Rapid elasticity
+  -  Measured service
 # 11.01.2023 Infra&App Modernzation with GC: Key terms
 - in the context of cloud- compute or computing refers to a machine's ability to process information to store, retrive, compare and analyze it and automate tasks often done by computer programms otherwise known as software or applications. 
 # 11.01.2023 Infra&App Modernzation with GC: Module 2
