@@ -66,25 +66,25 @@
   - Finally, cloud is a measured service which means companies have a lower up front or capital expenditure because they don't have the need to purchase their own data center equipment or maintain their IT Infra. 
  - *** What options are available to modernize your Business IT Infra:
   - VMs: is a form of resource optimization that allows multiple systems to run on the same hardware. Means they share the same pool of computer processing storage and networking resources. VMs enable business to have multiple applications running at the same time on a server in a way that is efficient and managable. The software layer that enables this is called a Hyper Visor. A Hyper Visor sits on top of physical hardware, and multiple VMs are buolt on top of it. 
-  - Contrainerization
+  - Containerization
     -  It provides isolated environements to run your software for services and optimize resources from one piece of hardware
   - Serverless computing
     - It offers a far more lightweight unit for developers and IT Operations team to work and provide a ranfe of benefits.  They start Faster and use a fraction of the memory compared to booting an entire operating system. 
     - It gives developers the ability to create prediccatable environments that are isolated from other obligations.
     - Containers improve agility, strength and security, optimize resources and simplify managing applications in the cloud. 
+    - Container are able to run virtually anywhere which makes development and deployment easy. They can run on Linux, Windows, Mac, VM, Bare Metal, Developer's Machine, on-premises data center, pulic Cloud.
+    - Container improve Agility, strength and security, optimize resources, and simplfy managing applications in the cloud. 
+    - Kubernetes: an open-source cluster management system that provides automated container orchestration. It improve application reliability, faster, more agile application development, peace of mind
+  - Serverless computing: means that resources such as compute power are automatically provisions behind the scenes as needed.  
 -  Available compute options
 -  Private, hybrid and multi-cloud architectures
 -  Google Cloud global Infrastructure
 -  Google Cloud compute solutions
-# 19.01.2023 Infra&App Modernzation with GC: Understanding compute options in the Cloud
-- Key advantages of public Cloud Services:
-  -  Cloud reduces the need for IT team to act as gateway to technical resources such as network, security, storage, compute, power and data = On demand self service
-  -  Board Network Access
-  -  Resouce polling
-  -  Rapid elasticity
-  -  Measured service
+
 # 11.01.2023 Infra&App Modernzation with GC: Key terms
 - in the context of cloud- compute or computing refers to a machine's ability to process information to store, retrive, compare and analyze it and automate tasks often done by computer programms otherwise known as software or applications. 
+- 
 # 11.01.2023 Infra&App Modernzation with GC: Module 2
+# 19.01.2023 Infra&App Modernzation with GC: Cloud Change Patterns
 # 11.01.2023 Infra&App Modernzation with GC: Module 3
 # 10.01.2023 Understanding Google Cloud Security and Operations
