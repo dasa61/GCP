@@ -86,5 +86,20 @@
 - 
 # 11.01.2023 Infra&App Modernzation with GC: Module 2
 # 19.01.2023 Infra&App Modernzation with GC: Cloud Change Patterns
+- Five identified common patterns that business can adopt when they want to modernize their applications.
+  -  Move applications first and then change them 
+  -  Change applications before they move
+  -  Invent in greenfield
+  -  Invent in brownfield
+  -  Move applications without any changes
 # 11.01.2023 Infra&App Modernzation with GC: Module 3
-# 10.01.2023 Understanding Google Cloud Security and Operations
+# 22.01.2023 Understanding Google Cloud Security and Operations:Finanancial Governance in Cloud
+- When it comes to cloud cost management consider followwing questions:
+  - What cloud resources are being used and whom?
+  - What are associated resource cost?
+  - How  do these cost measure against the broader business strategy?
+  - With cloud an organization can and should monitor and analyze its cloud usage and cost on a daily, or weekly basis?
+# 22.01.2023 Understanding Google Cloud Security and Operations:Total Cost of Ownership
+- TCO refers to comprehensive assessment of all of the layers whithin the Infra and other associated cost accross the business over time. This is includes acquiring hardware and software, management and support, communication, and user expenses and the cost of service downtime, training, and other productivity losses. 
+
+
