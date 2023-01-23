@@ -1,5 +1,7 @@
 # One More Thing To Learn
 ---
+# 23.01.2023 Cloud A: 
+
 # 10.01.2023 Introduction to Digital Transformation with Google Cloud: ML & AI
 - To create value in your business you need to use the data to make decisisons for future business. 
 - AI is a broad field or term that describes any kind of machine capable of task that normally requires human intelligence such as visual perception, speech recognition, decision making or translation between languages.
