@@ -1,7 +1,33 @@
 # One More Thing To Learn
 ---
-# 23.01.2023 Cloud A: 
-
+# 15.08.2023 Introduction to Digital Transformation with Google Cloud: Innovation Through Hostory: Lesson_2
+- Inoovation doesn't come in a linier way, It comes in waves.
+  - Printing Press
+  - Steam Engine
+  - Electricity
+  - The transportation age
+  - First Comouter
+  - Data Science
+- also known as the age of Cloud Technology.
+- Kondratieff Waves or Innovation waves.
+- Cloud technology is transforming how businesses create value, how people work, and ultimately how people live.
+- Cloud technology is generating thousands of new innovations such as chatbots and predictive medicine.
+- What is Clode? The cloud is a metaphor for the network of data centers that store and compute infirmation available through the internet. Essentially, instead of decribimg a complex web of software, computers, network, and security systems, all of that has been combined into one word, Cloud.
+- When we talk about cloud computing, we're talking about the technology and processes needed to store, manage, and access data that is transferred over the cloud rather than the data that remains on your computer's hard drive.
+- Cloud enables and redefines our ability to **collaborate**, **perceive**, **categorize**, **predict**, and **recommend** in every industry for every activity.
+- Moore's Law has been disrupted twice by radical new designs and chips. The first disruption comes from processes that are specifically meant for this type of application in which we call TPUs, or Tensor Processing Units. According to Moore's Law, TPUs should be twice as powerful as the preceding processing units, but they are not. 
+-  Why is data needed to unlock the capabilities of cloud?
+-  
+- Today we can build highly accurate statistical model to predict complex behaviors and use that information to anticipate intent. This is most profound aspect of the cloud revelotion. 
+- In addition to its predictive capabilities, the cloud delivers high performance analytics and enables businesses to reduce equipment downtime, achieve more accurate supply planning, and maintain leaner operational organizations that have more efficient systems and less wast. 
+- The power of Cloud also changes the way we work by automating processes and creating open and real-time collaboration opportunities between people globally.
+- in the context of cloude, compute is an ability to process information to store, retrive, compare, and analyze it and automate tasks most often done by a computer program. Compute power, therefore, refers to the speed at which a computer is able to process data.
+- 
+# 15.08.2023 Introduction to Digital Transformation with Google Cloud: Introduction: Lesson_1
+- What is clooud Technology?
+- What does digital transformation mean?
+- What can cloud technology do for me or my organization?
+- Where do I begin?
 # 10.01.2023 Introduction to Digital Transformation with Google Cloud: ML & AI
 - To create value in your business you need to use the data to make decisisons for future business. 
 - AI is a broad field or term that describes any kind of machine capable of task that normally requires human intelligence such as visual perception, speech recognition, decision making or translation between languages.
